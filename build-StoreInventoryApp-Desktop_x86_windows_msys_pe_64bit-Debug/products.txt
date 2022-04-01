@@ -1,0 +1,4 @@
+apples,10,./images/apple.png
+hotdogs,40,./images/hotdog.png
+bread,100,./images/bread.png
+tomatoes,13,./images/tomato.png
